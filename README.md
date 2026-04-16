@@ -10,7 +10,7 @@ To motivate the selection of filters (found in the datasheets folder), different
 The goal of the code was to simplify the analysis of MODTRAN data, allowing users select desired datapoints and specify how to display them. The specific slections you can make in this code are: 
 
 ### Data Selection
-This feature makes it easier for the user to plot sevral diffrent dataset in same figure for simple comparison between diffrent weather conditions and study how the transmittance behaviour changes.
+This feature makes it easier for the user to plot sevral diffrent dataset in the same figure for simple comparison between diffrent weather conditions and study how the transmittance behaviour changes.
 
 ### Averaging Type
 Due to each file containng a large amount of datapoints, the selected transmittance can be averaged over a few moivng points to facilitate an easier analysis of the plots. Arbitary moving averages over 7, 31 and 71 points were created.
